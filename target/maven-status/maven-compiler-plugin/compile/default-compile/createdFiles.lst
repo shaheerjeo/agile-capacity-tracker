@@ -1,0 +1,14 @@
+com\agile\capacity\controller\CapacityController.class
+com\agile\capacity\entity\Sprint.class
+com\agile\capacity\entity\Task.class
+com\agile\capacity\Main.class
+com\agile\capacity\repository\SprintRepository.class
+com\agile\capacity\config\WebConfig$1.class
+com\agile\capacity\repository\TaskRepository.class
+com\agile\capacity\config\WebConfig.class
+com\agile\capacity\repository\UserRepository.class
+com\agile\capacity\service\CapacityService.class
+com\agile\capacity\controller\GitHubController.class
+com\agile\capacity\entity\User.class
+com\agile\capacity\util\TaskIdGenerator.class
+com\agile\capacity\service\GitHubService.class
